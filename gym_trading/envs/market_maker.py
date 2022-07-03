@@ -57,6 +57,7 @@ class MarketMaker(BaseEnvironment):
         elif action == 1:
             action_penalty += self._create_order_at_level(level=0, side='long')
             action_penalty += self._create_order_at_level(level=4, side='short')
+            
 
         elif action == 2:
             action_penalty += self._create_order_at_level(level=0, side='long')

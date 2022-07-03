@@ -26,7 +26,7 @@ INCLUDE_ORDERFLOW = True
 
 # ./data_recorder/database/database.py
 BATCH_SIZE = 100000
-RECORD_DATA = False
+RECORD_DATA = True
 MONGO_ENDPOINT = 'localhost'
 ARCTIC_NAME = 'crypto.tickstore'
 TIMEZONE = tz.utc

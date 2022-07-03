@@ -1,0 +1,50 @@
+arctic @ git+https://github.com/man-group/arctic.git@451646458c5baf85815b1e4890b67b5bddba9f27
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backports.zoneinfo==0.2.1
+certifi==2021.5.30
+cloudpickle @ file:///Users/ktietz/demo/mc3/conda-bld/cloudpickle_1629142150447/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints==0.3
+enum-compat==0.0.3
+future==0.18.2
+gym @ file:///home/conda/feedstock_root/build_artifacts/gym_1631033091352/work
+h5py @ file:///tmp/build/80754af9/h5py_1593454121459/work
+importlib-resources==5.4.0
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi==0.17.0
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1633420100582/work
+keras @ file:///home/conda/feedstock_root/build_artifacts/keras_1652925255303/work/keras-2.9.0-py2.py3-none-any.whl
+keras-rl==0.4.2
+lz4==3.1.10
+mkl-service==2.3.0
+mock==4.0.3
+mockextras==1.0.2
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+numpy==1.18.4
+pandas==1.0.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyglet @ file:///home/conda/feedstock_root/build_artifacts/pyglet_1618311522510/work
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pymongo==3.11.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2022.1
+pytz-deprecation-shim==0.1.0.post0
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628268400816/work
+requests==2.12.5
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sortedcontainers @ file:///home/conda/feedstock_root/build_artifacts/sortedcontainers_1621217038088/work
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1632746497744/work
+tzdata==2022.1
+tzlocal==4.2
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+websockets @ file:///home/conda/feedstock_root/build_artifacts/websockets_1622491306092/work
+zipp==3.6.0
